@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b6434f1-9d45-4cea-a9b1-c77f65916247" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="271" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WyRxMp46r4mM0nykL7LF3wzHeE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.study.cartService.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CartServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.cartService.CartServiceApplication" />
+      <module name="cartService.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.cartService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CartServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b6434f1-9d45-4cea-a9b1-c77f65916247" name="Default Changelist" comment="" />
+      <created>1580120093826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580120093826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2240" y="205" key="#Project_Structure" timestamp="1580133332356">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2240" y="205" key="#Project_Structure/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580133332356" />
+    <state x="2453" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1580239350192">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2453" y="231" key="#com.intellij.ide.util.MemberChooser/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580150067511" />
+    <state x="2453" y="231" key="#com.intellij.ide.util.MemberChooser/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.958@1680.0.1920.1080" timestamp="1580128379768" />
+    <state x="2453" y="249" key="#com.intellij.ide.util.MemberChooser/3600.23.1920.1057/1680.23.1920.1057/0.23.1680.958@1680.23.1920.1057" timestamp="1580237272420" />
+    <state x="2453" y="249" key="#com.intellij.ide.util.MemberChooser/3600.23.1920.1057/1680.23.1920.1057/0.23.1680.960@1680.23.1920.1057" timestamp="1580239350192" />
+    <state x="2507" y="440" key="Github.ShareDialog" timestamp="1580134903531">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2507" y="440" key="Github.ShareDialog/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580134903531" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1580244088890">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580238291729" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1580148936980" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.960@1680.0.1920.1080" timestamp="1580205655971" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.961@1680.0.1920.1080" timestamp="1580205810559" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/3600.0.1920.1080/1680.23.1920.1057/0.23.1680.958@1680.23.1920.1057" timestamp="1580207243672" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/3600.23.1920.1057/1680.23.1920.1057/0.23.1680.958@1680.23.1920.1057" timestamp="1580243035891" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/3600.23.1920.1057/1680.23.1920.1057/0.23.1680.960@1680.23.1920.1057" timestamp="1580239682989" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/3600.23.1920.982/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1580244088890" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1580244088889">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580238291727" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1580148936978" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.960@1680.0.1920.1080" timestamp="1580205655969" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.961@1680.0.1920.1080" timestamp="1580205810556" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/3600.0.1920.1080/1680.23.1920.1057/0.23.1680.958@1680.23.1920.1057" timestamp="1580207243669" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/3600.23.1920.1057/1680.23.1920.1057/0.23.1680.958@1680.23.1920.1057" timestamp="1580243035890" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/3600.23.1920.1057/1680.23.1920.1057/0.23.1680.960@1680.23.1920.1057" timestamp="1580239682988" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/3600.23.1920.982/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1580244088889" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1580244088889">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580238291726" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1580148936977" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.960@1680.0.1920.1080" timestamp="1580205655967" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.961@1680.0.1920.1080" timestamp="1580205810554" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/3600.0.1920.1080/1680.23.1920.1057/0.23.1680.958@1680.23.1920.1057" timestamp="1580207243667" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/3600.23.1920.1057/1680.23.1920.1057/0.23.1680.958@1680.23.1920.1057" timestamp="1580243035889" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/3600.23.1920.1057/1680.23.1920.1057/0.23.1680.960@1680.23.1920.1057" timestamp="1580239682988" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/3600.23.1920.982/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1580244088889" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1580244088889">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580238291728" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1580148936979" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.960@1680.0.1920.1080" timestamp="1580205655970" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/3600.0.1920.1080/1680.0.1920.1080/0.23.1680.961@1680.0.1920.1080" timestamp="1580205810557" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/3600.0.1920.1080/1680.23.1920.1057/0.23.1680.958@1680.23.1920.1057" timestamp="1580207243671" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/3600.23.1920.1057/1680.23.1920.1057/0.23.1680.958@1680.23.1920.1057" timestamp="1580243035891" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/3600.23.1920.1057/1680.23.1920.1057/0.23.1680.960@1680.23.1920.1057" timestamp="1580239682989" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/3600.23.1920.982/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1580244088889" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1580153769691">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580153769691" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1580153769689">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580153769689" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1580153769688">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580153769688" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1580153769690">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/3600.0.1920.1080/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1580153769690" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cartService$CartServiceApplication.ic" NAME="CartServiceApplication Coverage Results" MODIFIED="1580205655918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.study.cartService.*</FILTER>
+    </SUITE>
+  </component>
+</project>
